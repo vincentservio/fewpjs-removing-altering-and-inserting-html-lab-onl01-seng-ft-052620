@@ -1,2 +1,2 @@
 // Write your code here!
-let element = document.querySelector('main#main').remove
+let element = document.getElementById('#main').remove()
